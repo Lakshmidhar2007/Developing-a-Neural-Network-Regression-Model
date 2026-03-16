@@ -51,7 +51,7 @@ Use the trained model to predict  for a new input value .
 
 ### Register Number: 212224230138
 
-```python
+```py
 class NeuralNet(nn.Module):
   def __init__(self):
         super().__init__()
